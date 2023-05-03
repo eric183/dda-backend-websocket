@@ -1,5 +1,5 @@
 {
-	"name": "plot",
+	"name": "dda-backend-socket",
 	"version": "1.0.0",
 	"author": "dayblox",
 	"description": "WebSocket chatrooms server",
